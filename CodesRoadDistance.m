@@ -1,6 +1,6 @@
 % This is the population distance decay gravity  model based on LCM 
 % categories,% population density and potentoial traveling time trough 
-% cells. Used is the Schlaepfer distance decay function (line 180).
+% cells. Used is the Schlaepfer distance decay function (line 235).
 % Inputs are a 1) Population density raster; 2) an LCM raster; 3) a speed
 % raster based on road presence (at a larger resolution; 4) a narrow
 % resolution distance to main road raster.
